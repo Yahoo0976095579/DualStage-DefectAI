@@ -47,16 +47,28 @@
 
 ## 🖼️ 成果展示
 
-### 📥 使用者介面示意
+### 實驗效能
 
 <p align="center">
-  <img src="docs/ui/ui_demo.png" alt="Frontend UI" width="500px">
+  <img src="docs/ui/Detection_speed.png" alt="Frontend UI" width="500px">
 </p>
 
-### ✅ 缺陷分類結果展示
+### 快速檢測
 
 <p align="center">
-  <img src="docs/ui/prediction_result.jpg" alt="Prediction Result" width="700px">
+  <img src="docs/ui/Rapid_detection.png" alt="Frontend UI" width="500px">
+</p>
+
+### ✅ 圖片追朔
+
+<p align="center">
+  <img src="docs/ui/Preview.png" alt="Prediction Result" width="700px">
+</p>
+
+### ✅ 統計與歷史
+
+<p align="center">
+  <img src="docs/ui/Statistics_History.png" alt="Prediction Result" width="700px">
 </p>
 
 ---
