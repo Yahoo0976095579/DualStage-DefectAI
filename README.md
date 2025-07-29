@@ -4,7 +4,7 @@
 
 系統架構圖如下：
 
-<img src="docs/ui/Process.png" alt="System Architecture" width="300px">
+<img src="docs/ui/Process.png" alt="System Architecture" width="600px">
 
 ## 🎯 雙階段架構簡介
 
