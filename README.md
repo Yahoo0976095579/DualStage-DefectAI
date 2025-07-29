@@ -47,6 +47,8 @@
 
 ## 🖼️ 成果展示
 
+本系統亦整合了圖形化介面與後端 API，支援缺陷追溯、即時檢測與歷史統計等功能，以下為部分功能展示畫面：
+
 ### 實驗效能
 
 <p align="center">
@@ -59,16 +61,16 @@
   <img src="docs/ui/Rapid_detection.png" alt="Frontend UI" width="500px">
 </p>
 
-### ✅ 圖片追朔
+### ✅ 圖片追溯
 
 <p align="center">
-  <img src="docs/ui/Preview.png" alt="Prediction Result" width="700px">
+  <img src="docs/ui/Preview.png" alt="Preview Result" width="700px">
 </p>
 
 ### ✅ 統計與歷史
 
 <p align="center">
-  <img src="docs/ui/Statistics_History.png" alt="Prediction Result" width="700px">
+  <img src="docs/ui/Statistics_History.png" alt="Statistics History Result" width="700px">
 </p>
 
 ---
@@ -91,7 +93,7 @@
 
 ## ✉️ 聯絡方式
 
-如需了解更多細節，歡迎聯絡開發者：
+如需了解更多細節，歡迎聯絡我：
 
-- **作者**：[你的名字]
-- **Email**：[your_email@example.com]
+- **作者**：[李柏駿]
+- **Email**：<yahoo0976095579@gmail.com>
