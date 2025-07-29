@@ -20,7 +20,23 @@
 
 ---
 
+## 🔄 系統完整流程
+
+1. 將原始 TIF 格式資料轉換為 JPG
+2. 圖片標註（YOLO 格式）
+3. 訓練 YOLOv5s 模型
+4. 根據 YOLO 標註，自動裁切分類模型資料集
+5. 訓練 EfficientNetV2s 模型
+6. 測試雙模型結合推論
+7. 前後端與資料庫部屬整合
+
+---
+
 ## 🧪 模型訓練流程（使用 Google Colab）
+
+1. 訓練 YOLOv5s
+2. 訓練 EfficientNetV2s
+3. 執行雙階段結合推論程式
 
 📂 [點我進入雲端資料夾](https://drive.google.com/drive/folders/1Id0aTjWZQ73lc_3HOMBqD-YMszYA39OG?usp=drive_link)  
 內含訓練與推論的 `.ipynb` 筆記本檔案：
@@ -82,12 +98,6 @@
 - 原始圖片
 - YOLOv5 標註格式（`.txt`）
 - Crop 後供 EfficientNet 分類使用的子圖
-
----
-
-## 📄 授權 License
-
-本專案採用 MIT License，如需商業應用請註明出處。
 
 ---
 
