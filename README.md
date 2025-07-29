@@ -89,6 +89,11 @@
   <img src="docs/ui/Statistics_History.png" alt="Statistics History Result" width="700px">
 </p>
 
+### ✅ 結合攝像頭拍照檢測
+
+<p align="center">
+  <img src="docs/ui/point_of_care_testing.png" alt="Statistics History Result" width="700px">
+</p>
 ---
 
 ## 📁 資料集格式說明
