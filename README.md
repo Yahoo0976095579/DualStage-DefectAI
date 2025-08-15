@@ -100,7 +100,7 @@
 ### 實驗效能
 
 <p align="center">
-  <img src="docs/ui/Detection_speed.png" alt="Frontend UI" width="500px">
+  <img src="docs/ui/end.png" alt="Frontend UI" width="500px">
 </p>
 
 ### 快速檢測
