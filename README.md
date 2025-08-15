@@ -13,7 +13,28 @@
 
 <h3>📌 實作流程</h3>
 <p align="center">
-  <img src="docs/ui/Process.png" alt="System Architecture" width="700px">
+  <img src="docs/ui/run1.png" alt="System Architecture" width="700px">
+</p>
+
+---
+
+<h3>📌 實作流程</h3>
+<p align="center">
+  <img src="docs/ui/run2.png" alt="System Architecture" width="700px">
+</p>
+
+---
+
+<h3>📌 實作流程</h3>
+<p align="center">
+  <img src="docs/ui/run3.png" alt="System Architecture" width="700px">
+</p>
+
+---
+
+<h3>📌 效能</h3>
+<p align="center">
+  <img src="docs/ui/end.png" alt="System Architecture" width="700px">
 </p>
 
 ---
