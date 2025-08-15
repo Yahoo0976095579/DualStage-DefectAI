@@ -6,6 +6,13 @@
 
 <h3>📌 系統流程圖</h3>
 <p align="center">
+  <img src="docs/ui/Process1.png" alt="System Architecture" width="700px">
+</p>
+
+---
+
+<h3>📌 實作流程</h3>
+<p align="center">
   <img src="docs/ui/Process.png" alt="System Architecture" width="700px">
 </p>
 
