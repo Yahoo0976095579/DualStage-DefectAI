@@ -6,7 +6,7 @@
 
 <h3>📌 系統流程圖</h3>
 <p align="center">
-  <img src="docs/ui/Process1.png" alt="System Architecture" width="700px">
+  <img src="docs/ui/Processall.png" alt="System Architecture" width="700px">
 </p>
 
 ---
